@@ -19,7 +19,7 @@
       "properties": {
         "statusBarCustomItem.text": {
         "type": "string",
-        "default": "Eduardo Pires",
+        "default": "natan",
         "description": "Custom Item Text (can be your name)"
       },
       "statusBarCustomItem.tooltip": {
